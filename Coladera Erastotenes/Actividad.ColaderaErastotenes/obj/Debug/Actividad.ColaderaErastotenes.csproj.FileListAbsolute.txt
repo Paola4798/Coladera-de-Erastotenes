@@ -1,0 +1,9 @@
+C:\Users\Paola Sandoval\Desktop\Actividad.ColaderaErastotenes\Actividad.ColaderaErastotenes\bin\Debug\Actividad.ColaderaErastotenes.exe.config
+C:\Users\Paola Sandoval\Desktop\Actividad.ColaderaErastotenes\Actividad.ColaderaErastotenes\bin\Debug\Actividad.ColaderaErastotenes.exe
+C:\Users\Paola Sandoval\Desktop\Actividad.ColaderaErastotenes\Actividad.ColaderaErastotenes\bin\Debug\Actividad.ColaderaErastotenes.pdb
+C:\Users\Paola Sandoval\Desktop\Actividad.ColaderaErastotenes\Actividad.ColaderaErastotenes\obj\Debug\Actividad.ColaderaErastotenes.csprojResolveAssemblyReference.cache
+C:\Users\Paola Sandoval\Desktop\Actividad.ColaderaErastotenes\Actividad.ColaderaErastotenes\obj\Debug\Actividad.ColaderaErastotenes.Form1.resources
+C:\Users\Paola Sandoval\Desktop\Actividad.ColaderaErastotenes\Actividad.ColaderaErastotenes\obj\Debug\Actividad.ColaderaErastotenes.Properties.Resources.resources
+C:\Users\Paola Sandoval\Desktop\Actividad.ColaderaErastotenes\Actividad.ColaderaErastotenes\obj\Debug\Actividad.ColaderaErastotenes.csproj.GenerateResource.Cache
+C:\Users\Paola Sandoval\Desktop\Actividad.ColaderaErastotenes\Actividad.ColaderaErastotenes\obj\Debug\Actividad.ColaderaErastotenes.exe
+C:\Users\Paola Sandoval\Desktop\Actividad.ColaderaErastotenes\Actividad.ColaderaErastotenes\obj\Debug\Actividad.ColaderaErastotenes.pdb
